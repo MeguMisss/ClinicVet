@@ -4,9 +4,9 @@ Nome:
 
 Tema: Sistema para Clínica Veterinária
 
-Integrantes responsáveis: Maria Paula Souza e Maria Gabriela
+Integrantes responsáveis: Maria Paula Souza e Maria Gabriela Batista
 
-Objetivo:
+# Objetivo:
 
 Tecnologias utilizadas: C#, MySQL
 
