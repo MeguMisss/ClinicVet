@@ -1,6 +1,6 @@
-# ClinicVet
+# ClinicPet
 
-Nome:
+Nome: ClinicPet
 
 Tema: Sistema para Clínica Veterinária
 
