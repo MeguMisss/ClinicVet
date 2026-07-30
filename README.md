@@ -29,8 +29,29 @@ responsável pela consulta dos pacientes, registro de diagnósticos e recomenda�
 Cliente/Tutor:
 responsável por visualizar informações do seu animal, consultas e orientações.
 
-# Diagrama de uso:
-<img width="615" height="359" alt="image" src="https://github.com/user-attachments/assets/ca6e7d75-4740-406b-8c5e-982cedc49d48" />
+# Fluxo Básico:
+
+Inicio
+  |
+Login
+  |
+Menu Principal
+  |
+  |__ Clientes
+  |__ Pets
+  |__ Veterinários
+  |__ Consultas
+  |__ Históricos
+  |__ Informações da Clínica
+  |
+Executar Operação Desejada
+  |
+Salvar/Consultar Dados
+  |
+Logout
+  |
+Fim
+
 
 
 # Prototipação FIGMA - https://www.figma.com/design/qNdobQK1eCPiLkR5HadGwq/ClinicVet?node-id=0-1&p=f&t=J1gfQwHvsgNYUCci-0
