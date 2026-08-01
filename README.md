@@ -18,7 +18,7 @@ O ClinicPet é um sistema desenvolvido para auxiliar no gerenciamento de uma cl�
 # Levantamento de Requisitos:
 - RF:
 
-  1. Cadastro de Tutores
+1. Cadastro de Tutores
 
 > O sistema deve permitir cadastrar tutores, contendo nome, CPF, telefone, e-mail e endereço.
 
